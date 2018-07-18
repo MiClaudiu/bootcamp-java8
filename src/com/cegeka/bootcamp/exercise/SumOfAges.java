@@ -12,7 +12,7 @@ public class SumOfAges {
      */
     public static int calculateSumOfAgesForMalesYoungerThan25(List<Person> people) {
 
-        return 0;
+        return -1;
     }
 
 }
